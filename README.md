@@ -6,12 +6,22 @@ KERAS
 
 ---
 
-## 1 Env Setting 
-## 2 Test on Keras functionality
-## 3 How to increase Dataset dimensionality
-## 4 Dataset Preview
-## 5 CNN Keras implemetation
-## 6 Inception GoogleNet module Keras implemetation
-## 7 SqueezeNet Keras implemetation
-## 8 Optimization 
-## 9 How to convert Keras Model to Tensorflow Lite Model
+### Env Setting 
+  - 1_EnvSetting.ipynb[/1_EnvSetting.ipynb]
+### Test on Keras functionality
+  - 2_KerasApplication.ipynb[/2_KerasApplication.ipynb]
+### How to increase Dataset dimensionality
+  - 3_IncreaseDataset.ipynb
+### Dataset Preview
+  - 4_DatasetPreview.ipynb
+### CNN Keras implemetation
+  - 5_CNN_Keras_TF.ipynb
+  - 5b_CNN_Keras_TF_GREY.ipynb
+### Inception GoogleNet module Keras implemetation
+  - 6_Inception_Keras_TF.ipynb
+### SqueezeNet Keras implemetation
+  - 7_SqueezeNet_Keras_TF.ipynb
+### Optimization 
+  - 8_AllModels_Optimized.ipynb	
+### How to convert Keras Model to Tensorflow Lite Model
+  - 9_Keras2TFlite.ipynb
