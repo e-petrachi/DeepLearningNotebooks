@@ -1,5 +1,7 @@
 # DeepLearningNotebooks
 
+Il training per ogni modello è stato effettuato con un numero di epoche molto limitato (non sufficiente), lo scopo dei notebooks è solo quello di velocizzare la scrittura di codice ad hoc per poi rifare il training adeguato. <br>
+
 TENSORFLOW LITE <br>
 TENSORFLOW <br>
 KERAS <br>
